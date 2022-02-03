@@ -4,16 +4,16 @@
 
 # Site
 title: Jerry's Blog
-subtitle: ''
-description: ''
+subtitle: Learning from EVERYTHING
+description: Actions speak louder than words
 keywords:
 author: Jerry Chien
-language: en
+language: zh-TW
 timezone: 'Asia/Taipei'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://porter815131.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -105,3 +105,32 @@ deploy:
   type: git
   reop: https://github.com/porter815131/porter815131.github.io.git
   branch: master
+  message: Hello
+
+  extend_dirs: /
+
+markdown:
+  preset: 'default'
+  # 渲染
+  render:
+    html: true # 是否解析成 HTML 內容
+    xhtmlOut: false # 是否將 HTML 內容渲染為 XHTML 的格式
+    langPrefix: 'language-'
+    breaks: true # 是否將換行解析成 <br> 標籤
+    linkify: true # 是否將連結解析成 <a> 標籤
+    typographer: true # 是否自動替換常見的排版元素，如：©、''、/。
+    quotes: '“”‘’' # 當 typographer 為 true 時，自動替換引號
+  # present 為 0 時才能設置
+  enable_rules:
+  disable_rules:
+  # 外掛
+  plugins:
+  anchors:
+    level: 2
+    collisionSuffix: ''
+    permalink: false
+    permalinkClass: 'header-anchor'
+    permalinkSide: 'left'
+    permalinkSymbol: '¶'
+    case: 0
+    separator: '-'
