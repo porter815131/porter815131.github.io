@@ -103,7 +103,7 @@ theme: ayer
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:porter815131/porter815131.github.io.git
+  repo: https://github.com/porter815131/porter815131.github.io.git
   branch: master
   message: Hello
 
