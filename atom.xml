@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>不程車便程人</title>
+  <title>Jerry of Adelaide</title>
   
   <subtitle>Learning from EVERYTHING</subtitle>
   <link href="https://porter815131.github.io/atom.xml" rel="self"/>
   
   <link href="https://porter815131.github.io/"/>
-  <updated>2022-02-03T10:18:14.579Z</updated>
+  <updated>2022-03-29T08:52:22.940Z</updated>
   <id>https://porter815131.github.io/</id>
   
   <author>
@@ -17,24 +17,25 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>First Post</title>
-    <link href="https://porter815131.github.io/2022/02/03/First-Post/"/>
-    <id>https://porter815131.github.io/2022/02/03/First-Post/</id>
-    <published>2022-02-03T10:17:28.000Z</published>
-    <updated>2022-02-03T10:18:14.579Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;First-Post&quot;&gt;First Post&lt;/h2&gt;
-&lt;p&gt;Hello</summary>
-        
-      
+    <title>gday</title>
+    <link href="https://porter815131.github.io/2022/03/29/gday/"/>
+    <id>https://porter815131.github.io/2022/03/29/gday/</id>
+    <published>2022-03-29T08:09:38.000Z</published>
+    <updated>2022-03-29T08:52:22.940Z</updated>
     
     
     
+    
+    <category term="汽修" scheme="https://porter815131.github.io/categories/%E6%B1%BD%E4%BF%AE/"/>
+    
+    <category term="澳洲" scheme="https://porter815131.github.io/categories/%E6%BE%B3%E6%B4%B2/"/>
+    
+    <category term="日誌" scheme="https://porter815131.github.io/categories/%E6%BE%B3%E6%B4%B2/%E6%97%A5%E8%AA%8C/"/>
+    
+    
+    <category term="March" scheme="https://porter815131.github.io/tags/March/"/>
+    
+    <category term="Daily" scheme="https://porter815131.github.io/tags/Daily/"/>
     
   </entry>
   
