@@ -1,32 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/01/08/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start">Quick Start</h2>
-<h3 id="Create-a-new-post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>Markdown</title>
+    <url>/2022/01/08/Markdown/</url>
+    <content><![CDATA[<h1>Markdown Cheat Sheet</h1>
+<p>Thanks for visiting <a href="https://www.markdownguide.org">The Markdown Guide</a>!</p>
+<span id="more"></span>
+<p>This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for <a href="https://www.markdownguide.org/basic-syntax">basic syntax</a> and <a href="https://www.markdownguide.org/extended-syntax">extended syntax</a>.</p>
+<h2 id="Basic-Syntax">Basic Syntax</h2>
+<p>These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.</p>
+<h3 id="Heading">Heading</h3>
+<h1>H1</h1>
+<h2 id="H2">H2</h2>
+<h3 id="H3">H3</h3>
+<h3 id="Bold">Bold</h3>
+<p><strong>bold text</strong></p>
+<h3 id="Italic">Italic</h3>
+<p><em>italicized text</em></p>
+<h3 id="Blockquote">Blockquote</h3>
+<blockquote>
+<p>blockquote</p>
+</blockquote>
+<h3 id="Ordered-List">Ordered List</h3>
+<ol>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+</ol>
+<h3 id="Unordered-List">Unordered List</h3>
+<ul>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+</ul>
+<h3 id="Code">Code</h3>
+<p><code>code</code></p>
+<h3 id="Horizontal-Rule">Horizontal Rule</h3>
+<hr>
+<h3 id="Link">Link</h3>
+<p><a href="https://www.markdownguide.org">Markdown Guide</a></p>
+<h3 id="Image">Image</h3>
+<p><img src="https://www.markdownguide.org/assets/images/tux.png" alt="alt text"></p>
+<h2 id="Extended-Syntax">Extended Syntax</h2>
+<p>These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.</p>
+<h3 id="Table">Table</h3>
+<table>
+<thead>
+<tr>
+<th>Syntax</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Header</td>
+<td>Title</td>
+</tr>
+<tr>
+<td>Paragraph</td>
+<td>Text</td>
+</tr>
+</tbody>
+</table>
+<h3 id="Fenced-Code-Block">Fenced Code Block</h3>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">  &quot;firstName&quot;: &quot;John&quot;,</span><br><span class="line">  &quot;lastName&quot;: &quot;Smith&quot;,</span><br><span class="line">  &quot;age&quot;: 25</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h3 id="Footnote">Footnote</h3>
+<p>Here’s a sentence with a footnote. [^1]</p>
+<p>[^1]: This is the footnote.</p>
+<h3 id="Heading-ID">Heading ID</h3>
+<h3 id="My-Great-Heading">My Great Heading</h3>
 ]]></content>
   </entry>
   <entry>
-    <title>gday</title>
-    <url>/2022/03/29/gday/</url>
-    <content><![CDATA[]]></content>
+    <title>Log-1</title>
+    <url>/2022/03/30/Log-1/</url>
+    <content><![CDATA[<h1 align="center">阿嬤的話</h1>
+<span id="more"></span>
+<p><img src="https://res.cloudinary.com/dzajfmf6z/image/upload/v1648647777/blog/IMG_4397_djiqxy.jpg" alt="Karrawirra Parri"></p>
+<center>昨天在青旅聽了一位婆婆說這邊的河很值得一來。
+今天一來，這風景果然很值得，只是阿德雷德目前的天氣真的是一日四季。
+在沒有太陽的情況真的很冷，站在太陽下直接進夏天 😂 </center>
+<p><img src="https://res.cloudinary.com/dzajfmf6z/image/upload/v1648647777/blog/IMG_4396_lcpwqf.jpg" alt="Karrawirra Parri"></p>
+<center>目前在青年旅舍還沒有安定下來的感覺。
+也因為沒有固定的住所，所以很多事都不能辦。
+等搬進 Share house 就可以開始我的澳洲人生。</center>
+<p align="center">噢！對了</p>
+<center>我的起司被幹走了，還好我都買最便宜的。
+<font size="40"><mark>而且不止我…</mark></font></center>
+]]></content>
       <categories>
-        <category>汽修</category>
-        <category>澳洲</category>
-        <category>日誌</category>
+        <category>Australia</category>
+        <category>Log</category>
       </categories>
       <tags>
         <tag>March</tag>

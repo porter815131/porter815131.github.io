@@ -6,7 +6,7 @@
   <link href="https://porter815131.github.io/atom.xml" rel="self"/>
   
   <link href="https://porter815131.github.io/"/>
-  <updated>2022-03-29T08:52:22.940Z</updated>
+  <updated>2022-03-31T01:42:27.252Z</updated>
   <id>https://porter815131.github.io/</id>
   
   <author>
@@ -17,20 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>gday</title>
-    <link href="https://porter815131.github.io/2022/03/29/gday/"/>
-    <id>https://porter815131.github.io/2022/03/29/gday/</id>
-    <published>2022-03-29T08:09:38.000Z</published>
-    <updated>2022-03-29T08:52:22.940Z</updated>
+    <title>Log-1</title>
+    <link href="https://porter815131.github.io/2022/03/30/Log-1/"/>
+    <id>https://porter815131.github.io/2022/03/30/Log-1/</id>
+    <published>2022-03-30T12:39:07.000Z</published>
+    <updated>2022-03-31T01:42:27.252Z</updated>
+    
+    
+    <summary type="html"> </summary>
     
     
     
+    <category term="Australia" scheme="https://porter815131.github.io/categories/Australia/"/>
     
-    <category term="汽修" scheme="https://porter815131.github.io/categories/%E6%B1%BD%E4%BF%AE/"/>
-    
-    <category term="澳洲" scheme="https://porter815131.github.io/categories/%E6%BE%B3%E6%B4%B2/"/>
-    
-    <category term="日誌" scheme="https://porter815131.github.io/categories/%E6%BE%B3%E6%B4%B2/%E6%97%A5%E8%AA%8C/"/>
+    <category term="Log" scheme="https://porter815131.github.io/categories/Australia/Log/"/>
     
     
     <category term="March" scheme="https://porter815131.github.io/tags/March/"/>
@@ -40,20 +40,15 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://porter815131.github.io/2022/01/08/hello-world/"/>
-    <id>https://porter815131.github.io/2022/01/08/hello-world/</id>
+    <title>Markdown</title>
+    <link href="https://porter815131.github.io/2022/01/08/Markdown/"/>
+    <id>https://porter815131.github.io/2022/01/08/Markdown/</id>
     <published>2022-01-08T08:21:17.018Z</published>
-    <updated>2022-01-08T08:21:17.018Z</updated>
+    <updated>2022-03-31T01:31:40.140Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
+    <summary type="html">&lt;h1&gt;Markdown Cheat Sheet&lt;/h1&gt;
+&lt;p&gt;Thanks for visiting &lt;a href=&quot;https://www.markdownguide.org&quot;&gt;The Markdown Guide&lt;/a&gt;!&lt;/p&gt;</summary>
     
     
     
