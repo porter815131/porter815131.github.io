@@ -886,8 +886,19 @@ Translation<br>
 </blockquote>
 </li>
 </ul>
-<h1>A</h1>
-<h1>P</h1>
+<h1>Alphabetically</h1>
+<h2 id="A">A</h2>
+<h2 id="D">D</h2>
+<ul>
+<li><strong>don’t get me wrong</strong><br>
+別誤會<br>
+: <em>said when you think someone might not understand what you say, or be upset by it</em>
+<blockquote>
+<p>Don’t get me wrong - I’d love to come, but I’m too busy next week.</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="P">P</h2>
 <ul>
 <li><strong>part and parcel of sth</strong><br>
 是…必要（或不可缺少）的部分<br>
@@ -922,15 +933,32 @@ Translation<br>
 </blockquote>
 </li>
 </ul>
-<h1>C</h1>
+<h1>Alphabetically</h1>
+<h2 id="A-2">A</h2>
+<h2 id="B">B</h2>
+<ul>
+<li><strong>beef up</strong><br>
+加強；充實<br>
+: <em>to make something stronger or more important</em>
+<blockquote>
+<ul>
+<li>The company has plans to beef up its production.</li>
+<li>We need to find some new players to beef up the team.</li>
+</ul>
+</blockquote>
+</li>
+</ul>
+<h2 id="C">C</h2>
 <ul>
 <li>
 <p><strong>carry out</strong><br>
 執行，貫徹，落實，完成<br>
 : <em>to do or complete something, especially that you have said you would do or that you have been told to do</em></p>
 <blockquote>
-<p>The study will be carried out over a six-month period.<br>
-The hospital is carrying out tests to find out what’s wrong with her.</p>
+<ul>
+<li>The study will be carried out over a six-month period.</li>
+<li>The hospital is carrying out tests to find out what’s wrong with her.</li>
+</ul>
 </blockquote>
 </li>
 <li>
@@ -938,8 +966,33 @@ The hospital is carrying out tests to find out what’s wrong with her.</p>
 （使）繼續<br>
 : <em>to continue doing something, or to cause something to continue</em></p>
 <blockquote>
-<p>Carry on the good work!<br>
-Let’s carry on this discussion at some other time.</p>
+<ul>
+<li>Carry on the good work!</li>
+<li>Let’s carry on this discussion at some other time.</li>
+</ul>
+</blockquote>
+</li>
+<li>
+<p><strong>come out</strong><br>
+（與…）出去（參加社交活動）<br>
+: <em>to go somewhere with someone for a social event</em></p>
+<blockquote>
+<p>Would you like to come out for a drink sometime?</p>
+</blockquote>
+<p>（書、唱片、電影等）發行，出版，上市<br>
+: <em>If a book, record, film, etc. comes out, it becomes available for people to buy or see</em></p>
+<blockquote>
+<p>When does their new album come out?</p>
+</blockquote>
+<p>暴露；洩露<br>
+: <em>If something comes out, it becomes known publicly after it has been kept secret</em></p>
+<blockquote>
+<p>After her death, it came out that she’d lied about her age.</p>
+</blockquote>
+<p>（資訊或結果）公佈，揭曉<br>
+: <em>If information, results, etc. come out, they are given to people</em></p>
+<blockquote>
+<p>The exam results come out in August.</p>
 </blockquote>
 </li>
 <li>
@@ -947,8 +1000,10 @@ Let’s carry on this discussion at some other time.</p>
 到達；出現<br>
 : <em>to arrive or appear at a place</em></p>
 <blockquote>
-<p>Go now and I’ll come along later.<br>
-You wait half an hour for a bus, then three come along at once!</p>
+<ul>
+<li>Go now and I’ll come along later.</li>
+<li>You wait half an hour for a bus, then three come along at once!</li>
+</ul>
 </blockquote>
 <p>跟隨，一同去<br>
 : <em>to go somewhere with someone</em></p>
@@ -956,28 +1011,40 @@ You wait half an hour for a bus, then three come along at once!</p>
 <p>We’re going to the cinema. Do you want to come along?</p>
 </blockquote>
 </li>
+<li>
+<p><strong>crack down</strong><br>
+制裁；處罰；打擊；鎮壓<br>
+: <em>to start dealing with bad or illegal behaviour in a more severe way</em></p>
+<blockquote>
+<p>The library is cracking down on people who lose their books.</p>
+</blockquote>
+</li>
 </ul>
-<h1>F</h1>
+<h2 id="F">F</h2>
 <ul>
 <li><strong>find out</strong><br>
 找出，查明；得知<br>
 : <em>to get information about something because you want to know more about it, or to learn a fact or piece of information for the first time</em>
 <blockquote>
-<p>How did you find out about the party?<br>
-[ + question word ] I’ll just go and find out what’s going on outside.<br>
-[ + that ] Too late, she found out that the flight had been cancelled.</p>
+<ul>
+<li>How did you find out about the party?</li>
+<li>[ + question word ] I’ll just go and find out what’s going on outside.</li>
+<li>[ + that ] Too late, she found out that the flight had been cancelled.</li>
+</ul>
 </blockquote>
 </li>
 </ul>
-<h1>G</h1>
+<h2 id="G">G</h2>
 <ul>
 <li>
 <p><strong>go through sth</strong><br>
 遭受，經歷，經受（苦難等）<br>
 : <em>to experience a difficult or unpleasant situation</em></p>
 <blockquote>
-<p>I’ve been going through a bad patch recently.<br>
-She’s gone through a lot in order to achieve what she has.</p>
+<ul>
+<li>I’ve been going through a bad patch recently.</li>
+<li>She’s gone through a lot in order to achieve what she has.</li>
+</ul>
 </blockquote>
 <p>獲得正式認可；被批准；被通過<br>
 : <em>If a law, plan, or deal goes through, it is officially accepted or approved</em></p>
@@ -986,14 +1053,49 @@ She’s gone through a lot in order to achieve what she has.</p>
 </blockquote>
 </li>
 </ul>
-<h1>S</h1>
+<h2 id="S">S</h2>
 <ul>
-<li><strong>set off</strong><br>
+<li>
+<p><strong>set off</strong><br>
 出發，啓程<br>
-: <em>to start a journey</em>
+: <em>to start a journey</em></p>
 <blockquote>
-<p>Jenny set off down the road on her new bike.<br>
-What time will we have to set off for Grandma’s house tomorrow?</p>
+<ul>
+<li>Jenny set off down the road on her new bike.</li>
+<li>What time will we have to set off for Grandma’s house tomorrow?</li>
+</ul>
+</blockquote>
+</li>
+<li>
+<p><strong>sort out</strong><br>
+解決，處理好<br>
+: <em>to deal successfully with a problem, a situation, or a person who is having difficulties</em></p>
+<blockquote>
+<ul>
+<li>We’ve sorted out the computer system’s initial problems.</li>
+<li>[ + question word ] It’ll be difficult to sort out how much each person owes.</li>
+</ul>
+</blockquote>
+</li>
+<li>
+<p><strong>speak out</strong><br>
+（尤指對有強烈共鳴的話題）公開發表意見，坦率說出<br>
+: <em>to give your opinion about something in public, especially on a subject that you have strong feelings about</em></p>
+<blockquote>
+<p>If no one has the courage to speak out against the system, things will never improve.</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="T">T</h2>
+<ul>
+<li><strong>turn out</strong><br>
+最終成為；最終發現<br>
+: <em>to be known or discovered finally and surprisingly</em>
+<blockquote>
+<ul>
+<li>[ + to infinitive ] The truth turned out to be stranger than we had expected.</li>
+<li>[ + that ] It turns out that she had known him when they were children.</li>
+</ul>
 </blockquote>
 </li>
 </ul>
