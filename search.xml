@@ -899,6 +899,18 @@ Translation<br>
 <h1>Alphabetically</h1>
 <h2 id="A">A</h2>
 <h2 id="B">B</h2>
+<ul>
+<li><strong>be/have/get something to do with sth</strong><br>
+與…有關係<br>
+: <em>to be related to something or a cause of something but not in a way that you know about or understand exactly</em>
+<blockquote>
+<ul>
+<li>I’m not sure what he does exactly - it’s something to do with finance.</li>
+<li>It might have something to do with the way it’s made.</li>
+</ul>
+</blockquote>
+</li>
+</ul>
 <h2 id="C">C</h2>
 <ul>
 <li><strong>consider it done</strong><br>
@@ -926,6 +938,17 @@ Translation<br>
 : <em>I’ll have the same thing as what this other person ordered.</em>
 <blockquote>
 <p>“I think I’ll have the chef’s special.” “Ooh, that sounds good—make it two!”</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="N">N</h2>
+<h2 id="O">O</h2>
+<ul>
+<li><strong>once upon a time</strong><br>
+（表示對過去的留戀）以往，從前<br>
+: <em>used when referring to something that happened in the past, especially when showing that you feel sorry that it no longer happens</em>
+<blockquote>
+<p>Once upon a time people knew the difference between right and wrong, but nowadays nobody seems to care.</p>
 </blockquote>
 </li>
 </ul>
@@ -1006,7 +1029,7 @@ Translation<br>
 </ul>
 <h1>Alphabetically</h1>
 <h2 id="A-2">A</h2>
-<h2 id="B">B</h2>
+<h2 id="B-2">B</h2>
 <ul>
 <li><strong>beef up</strong><br>
 加強；充實<br>
@@ -1019,7 +1042,7 @@ Translation<br>
 </blockquote>
 </li>
 </ul>
-<h2 id="C">C</h2>
+<h2 id="C-2">C</h2>
 <ul>
 <li>
 <p><strong>carry out</strong><br>
@@ -1134,8 +1157,8 @@ Translation<br>
 </blockquote>
 </li>
 </ul>
-<h2 id="Q">Q</h2>
-<h2 id="R">R</h2>
+<h2 id="Q-2">Q</h2>
+<h2 id="R-2">R</h2>
 <ul>
 <li>
 <p><strong>rely on</strong><br>
@@ -1189,9 +1212,18 @@ Translation<br>
 </ul>
 <h2 id="T-2">T</h2>
 <ul>
-<li><strong>turn out</strong><br>
+<li>
+<p><strong>think of</strong><br>
+認為，覺得<br>
+: <em>If you think of something or someone in a particular way, you have that opinion about it, him, or her</em></p>
+<blockquote>
+<p>I think of him as someone who will always help me.</p>
+</blockquote>
+</li>
+<li>
+<p><strong>turn out</strong><br>
 最終成為；最終發現<br>
-: <em>to be known or discovered finally and surprisingly</em>
+: <em>to be known or discovered finally and surprisingly</em></p>
 <blockquote>
 <ul>
 <li>[ + to infinitive ] The truth turned out to be stranger than we had expected.</li>
@@ -1210,6 +1242,159 @@ Translation<br>
         <tag>English Learning</tag>
         <tag>3D Notes</tag>
         <tag>Phraval Verbs</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Part of Speech</title>
+    <url>/2022/06/11/Part-of-Speech/</url>
+    <content><![CDATA[<h1>詞性列表(英劍)</h1>
+<h2 id="形容詞">形容詞</h2>
+<ul>
+<li>adjective 描述一個名詞或代名詞的詞語</li>
+<li>[after noun] 只用在名詞後面的形容詞。</li>
+<li>[after verb] 只用在動詞後面的形容詞。</li>
+<li>[before noun] 只用在名詞前面的形容詞。</li>
+<li>comparative 形容詞或副詞的一種形式，表示不同的量、數、程度或品質。</li>
+<li>superlative 形容詞或副詞的一種形式，表示一件物品或一個人擁有比任何其他同類-物品或任何其他人更多的某種特定的品質。</li>
+<li>[not gradable] 沒有比較級和最高級的形容詞。</li>
+</ul>
+<h2 id="名詞">名詞</h2>
+<ul>
+<li>noun 指稱人、地方或物品的詞。</li>
+<li>[C] 可數名詞：有複數形式的名詞</li>
+<li>[U] 不可數或單數名詞：沒有複數形式的名詞</li>
+<li>[S] 單數名詞</li>
+<li>plural 名詞的複數形式。</li>
+<li>noun [plural] 只能作為複數使用的名詞。</li>
+<li>[usually plural] 通常作為複數使用的名詞。</li>
+<li>[usually singular] 通常作為單數使用的名詞。</li>
+<li>[+ sing/pl verb] 指稱集體行動的一群人的名詞。作為單數使用時，在英式英語中，該名詞後面可以使用動詞的單數或者複數。在美式英語中，使用動詞的單數更好。</li>
+</ul>
+<h2 id="動詞">動詞</h2>
+<ul>
+<li>verb 描述動作、狀態或經歷的詞。</li>
+<li>[T] 及物動詞：後面接受詞的動詞</li>
+<li>[I] 不及物動詞：後面不接受詞的動詞。</li>
+<li>auxiliary verb 與其他動詞一起使用以表示 passives，questions 和<br>
+continuous 等意思，包括 be, have 和 do 等。</li>
+<li>modal verb 增加 certainty 和 obligation 等意思的動詞，如 must 和 can。</li>
+<li>past simple 動詞的過去式(eat ate eaten)。</li>
+<li>past participle 動詞的過去分詞(eat ate eaten)。</li>
+<li>present participle 動詞的現在分詞 (tying tied).</li>
+<li>phrasal verb 動詞後面接一個副詞或介係詞。</li>
+<li>[L] 連綴動詞：後面接回指句子主詞的名詞或形容詞的不及物動詞。</li>
+<li>[L only + adjective] 連綴動詞後面只接一個形容詞。</li>
+<li>[L only + noun] 連綴動詞後面只接一個名詞。</li>
+<li>[+ adv/prep] 後面必須接副詞或介係詞的動詞。</li>
+<li>[+ that clause] 動詞後面接一個 that 子句。</li>
+<li>[+ question word] 動詞後面接一個疑問詞。</li>
+<li>[+ speech] 跟直述句一起使用的動詞</li>
+<li>[+ to infinitive] 動詞後面接一個帶 to 的不定詞。</li>
+<li>[+ infinitive without to] 動詞後面接一個不帶 to 的不定詞。</li>
+<li>[+ -ing] verb 動詞後面接一個動詞 ing 結構。</li>
+<li>[+ not or so] 動詞後面接一個替代子句的 not 或者 so。</li>
+<li>[+ two objects] 後面接一個直接受詞和一個間接受詞的動詞</li>
+<li>[+ obj + adjective] 加受詞的動詞後面接一個形容詞。</li>
+<li>[+ obj + noun] 加受詞的動詞後面接一個名詞。</li>
+<li>[+ obj + noun or adjective] 加受詞的動詞後面接一個名詞或形容詞。</li>
+<li>[+ obj + as noun or adjective] 加受詞的動詞後面接一個 as 加名詞或形容詞的結構。</li>
+<li>[+ obj + to be noun or adjective] 加受詞的動詞後面接一個 to be 加名詞或形容詞的結構。</li>
+<li>[+ obj + that clause] 加受詞的動詞後面接一個 that 子句。</li>
+<li>[+ obj + to infinitive] 加受詞的動詞後面接一個帶 to 的不定詞。</li>
+<li>[+ obj + infinitive without to] 加受詞的動詞後面接一個不帶 to 的不定詞結構。</li>
+<li>[+ obj + past participle] 加受詞的動詞後面接一個過去分詞。</li>
+<li>[+ obj + ing verb] 加受詞的動詞後面接一個動詞-ing 結構。</li>
+<li>[+ obj + question word] 加受詞的動詞後面接一個疑問詞。</li>
+<li>[usually passive] 常用於被動語態的動詞。</li>
+<li>[not continuous] 不用於進行時態的動詞</li>
+</ul>
+<h2 id="其他標籤">其他標籤</h2>
+<ul>
+<li>adverb 修飾動詞、形容詞、另一個副詞或句子的詞語。</li>
+<li>conjunction 用來連接一個句子的兩個部分的詞，如 and 或者 although。</li>
+<li>determiner 用在名詞前面，說明究竟是哪一個名詞被特指為特定的例子， 如 the 或者 this。</li>
+<li>number 指稱數字的詞。</li>
+<li>ordinal number 表明某事物在一系列事物中所處次序的數詞，如第一、第二、第三、第四等。</li>
+<li>preposition 用在名詞、名詞片語或代名詞的前面，把該詞與其他詞連接起來的詞。</li>
+<li>predeterminer 使用在其他限定詞前面的詞，如 both 或者 all。</li>
+<li>pronoun 用來指代名詞的詞，如 it， 或者 mine。</li>
+<li>prefix 加在詞起始處以組成新詞的一個字母或幾個字母，如 un-，pre-或者 anti- 。</li>
+<li>suffix 加在詞末尾處以組成新詞的一個字母或幾個字母，如-less 或者 -ment。</li>
+<li>exclamation 用來表示強烈感情的字詞或片語，如 damn! 或者 oh dear!。</li>
+<li>[+ ing verb] 詞或片語後面接一個動詞-ing 形式。</li>
+<li>[+ to infinitive] 詞或片語後面接一個帶 to 的不定詞。</li>
+<li>[+ that] 詞或片語後面接一個 that 子句。</li>
+<li>[+ question word] 詞或片語後面接一個疑問詞。</li>
+<li>[as form of address] 用來稱呼某人的詞，如 Mr 或 dear。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>English Learning</category>
+        <category>Part of Speech</category>
+      </categories>
+      <tags>
+        <tag>English Learning</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【3D Notes】Vocabulary</title>
+    <url>/2022/06/11/%E3%80%903D-Notes%E3%80%91Vocabulary/</url>
+    <content><![CDATA[<h1>Format of the Note</h1>
+<ul>
+<li><strong>name</strong><br>
+<em>PoS</em><br>
+Translation<br>
+: <em>Definition</em>
+<blockquote>
+<p>Examples</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="A-3">A</h2>
+<h2 id="B-3">B</h2>
+<h2 id="C-3">C</h2>
+<ul>
+<li><strong>close call</strong><br>
+<em>noun [ C ]</em><br>
+僥倖脫險<br>
+: <em>a situation in which something bad, unpleasant, or dangerous almost happens, but you manage to avoid it</em>
+<blockquote>
+<p>Examples</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="D-2">D</h2>
+<h2 id="E">E</h2>
+<h2 id="F-2">F</h2>
+<h2 id="G-2">G</h2>
+<h2 id="H">H</h2>
+<h2 id="I">I</h2>
+<h2 id="J">J</h2>
+<h2 id="K">K</h2>
+<h2 id="L">L</h2>
+<h2 id="M-2">M</h2>
+<h2 id="N-2">N</h2>
+<h2 id="O-2">O</h2>
+<h2 id="P-3">P</h2>
+<h2 id="Q-3">Q</h2>
+<h2 id="R-3">R</h2>
+<h2 id="S-2">S</h2>
+<h2 id="T-3">T</h2>
+<h2 id="U">U</h2>
+<h2 id="V">V</h2>
+<h2 id="X">X</h2>
+<h2 id="Y">Y</h2>
+<h2 id="Z">Z</h2>
+]]></content>
+      <categories>
+        <category>English Learning</category>
+        <category>3D Notes</category>
+        <category>Vocabulary</category>
+      </categories>
+      <tags>
+        <tag>English Learning</tag>
+        <tag>3D Notes</tag>
+        <tag>Vocabulary</tag>
       </tags>
   </entry>
 </search>
