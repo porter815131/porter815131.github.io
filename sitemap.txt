@@ -48,6 +48,9 @@ https://porter815131.github.io/tags/Vocabulary/
 https://porter815131.github.io/tags/Job/
 https://porter815131.github.io/tags/Phone-Interview/
 https://porter815131.github.io/tags/Phrase/
+https://porter815131.github.io/tags/Interview/
+https://porter815131.github.io/tags/Cover-Letter/
+https://porter815131.github.io/tags/Part-of-Speech/
 https://porter815131.github.io/categories/Australia/
 https://porter815131.github.io/categories/Australia/Log/
 https://porter815131.github.io/categories/Australia/Automotive/
@@ -73,7 +76,6 @@ https://porter815131.github.io/categories/English-Learning/PTE/Reading/RO/
 https://porter815131.github.io/categories/English-Learning/3D-Notes/
 https://porter815131.github.io/categories/English-Learning/3D-Notes/Idioms/
 https://porter815131.github.io/categories/English-Learning/3D-Notes/Phraval-Verbs/
-https://porter815131.github.io/categories/English-Learning/Part-of-Speech/
 https://porter815131.github.io/categories/English-Learning/3D-Notes/Vocabulary/
 https://porter815131.github.io/categories/Australia/Jobs/
 https://porter815131.github.io/categories/Australia/Jobs/Interview/
