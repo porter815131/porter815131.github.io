@@ -1,3 +1,4 @@
+https://porter815131.github.io/2022/06/22/%E3%80%90T1-WRITTING%E3%80%91Internet-Users-as-Percentage-of-Population/
 https://porter815131.github.io/2022/05/30/%E3%80%903D-Notes%E3%80%91Phrasal-Verbs-%E7%89%87%E8%AA%9E%E5%8B%95%E8%A9%9E/
 https://porter815131.github.io/2022/01/08/Markdown/
 https://porter815131.github.io/about/index.html
@@ -51,6 +52,8 @@ https://porter815131.github.io/tags/Phrase/
 https://porter815131.github.io/tags/Interview/
 https://porter815131.github.io/tags/Cover-Letter/
 https://porter815131.github.io/tags/Part-of-Speech/
+https://porter815131.github.io/tags/Writting/
+https://porter815131.github.io/tags/Line-Chart/
 https://porter815131.github.io/categories/Australia/
 https://porter815131.github.io/categories/Australia/Log/
 https://porter815131.github.io/categories/Australia/Automotive/
@@ -80,3 +83,6 @@ https://porter815131.github.io/categories/English-Learning/3D-Notes/Vocabulary/
 https://porter815131.github.io/categories/Australia/Jobs/
 https://porter815131.github.io/categories/Australia/Jobs/Interview/
 https://porter815131.github.io/categories/English-Learning/3D-Notes/Phrase/
+https://porter815131.github.io/categories/English-Learning/Practices/
+https://porter815131.github.io/categories/English-Learning/Practices/Writting/
+https://porter815131.github.io/categories/English-Learning/Practices/Writting/Graphs/
