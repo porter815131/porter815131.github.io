@@ -543,6 +543,10 @@ The given image is about interesting topics based on many different categories.<
 </tr>
 </tbody>
 </table>
+<h2 id="Template">Template</h2>
+<blockquote>
+<p>This lecture is mainly about (key point 1). Firstly, the speaker emphasizes that (key point 2). She also mentions that (key point 3), and (key point 3). Lastly, the speaker believes that (key point 4). In conclusion, (key point 5).</p>
+</blockquote>
 <h2 id="Practices">Practices</h2>
 <h3 id="Sound-Receptors">Sound Receptors</h3>
 <blockquote>
@@ -3346,7 +3350,16 @@ RE:Application for (name of the position and ref)</p>
 </tr>
 </tbody>
 </table>
+<ul>
+<li>WFD -&gt; SST -&gt; RS</li>
+<li>RA -&gt; DI</li>
+<li>RL -&gt; RO</li>
+<li>FIB_R &amp; W</li>
+<li>FIB_R -&gt; WE</li>
+</ul>
 <h2 id="螢火蟲-PTE">螢火蟲 PTE</h2>
+<h3 id="Importance">Importance</h3>
+<p><code>⭐️ &gt; 🔺 &gt; 🟡</code></p>
 <h3 id="Speaking">Speaking</h3>
 <table>
 <thead>
@@ -3358,27 +3371,27 @@ RE:Application for (name of the position and ref)</p>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><strong>RA</strong></td>
+<td style="text-align:center"><strong>🔺RA</strong></td>
 <td style="text-align:center"><em>30%</em></td>
 <td style="text-align:center">高頻</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>RS</strong></td>
+<td style="text-align:center"><strong>⭐️RS</strong></td>
 <td style="text-align:center"><em>50%</em></td>
 <td style="text-align:center">總題庫</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>DI</strong></td>
+<td style="text-align:center"><strong>🔺DI</strong></td>
 <td style="text-align:center"><em>60%</em></td>
 <td style="text-align:center">模板掌握</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>RL</strong></td>
+<td style="text-align:center"><strong>🔺RL</strong></td>
 <td style="text-align:center"><em>60%</em></td>
 <td style="text-align:center">模板掌握</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>ASQ</strong></td>
+<td style="text-align:center"><strong>🟡ASQ</strong></td>
 <td style="text-align:center"><em>66%</em></td>
 <td style="text-align:center">總題庫</td>
 </tr>
@@ -3395,12 +3408,12 @@ RE:Application for (name of the position and ref)</p>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><strong>SWT</strong></td>
+<td style="text-align:center"><strong>⭐️SWT</strong></td>
 <td style="text-align:center"><em>50%</em></td>
 <td style="text-align:center">模板掌握</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>WE</strong></td>
+<td style="text-align:center"><strong>⭐️WE</strong></td>
 <td style="text-align:center"><em>100%</em></td>
 <td style="text-align:center">模板+高頻</td>
 </tr>
@@ -3417,17 +3430,22 @@ RE:Application for (name of the position and ref)</p>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><strong>RO</strong></td>
+<td style="text-align:center"><strong>MCQM</strong></td>
+<td style="text-align:center"><em>none</em></td>
+<td style="text-align:center">none</td>
+</tr>
+<tr>
+<td style="text-align:center"><strong>🔺RO</strong></td>
 <td style="text-align:center"><em>67%</em></td>
 <td style="text-align:center">高頻&gt;總題庫&gt;降頻</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>FIBW</strong></td>
+<td style="text-align:center"><strong>🔺FIBW</strong></td>
 <td style="text-align:center"><em>50%</em></td>
 <td style="text-align:center">高頻&gt;總題庫</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>FIB</strong></td>
+<td style="text-align:center"><strong>🔺FIB_R</strong></td>
 <td style="text-align:center"><em>50%</em></td>
 <td style="text-align:center">高頻&gt;總題庫</td>
 </tr>
@@ -3444,14 +3462,29 @@ RE:Application for (name of the position and ref)</p>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><strong>SST</strong></td>
+<td style="text-align:center"><strong>⭐️SST</strong></td>
 <td style="text-align:center"><em>98%</em></td>
 <td style="text-align:center">完美模板+高頻</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>FIB</strong></td>
+<td style="text-align:center"><strong>MCQM</strong></td>
+<td style="text-align:center"><em>none</em></td>
+<td style="text-align:center">none</td>
+</tr>
+<tr>
+<td style="text-align:center"><strong>🟡FIB_L</strong></td>
 <td style="text-align:center"><em>30%</em></td>
 <td style="text-align:center">單字本</td>
+</tr>
+<tr>
+<td style="text-align:center"><strong>MCQS</strong></td>
+<td style="text-align:center"><em>none</em></td>
+<td style="text-align:center">none</td>
+</tr>
+<tr>
+<td style="text-align:center"><strong>SMW</strong></td>
+<td style="text-align:center"><em>none</em></td>
+<td style="text-align:center">none</td>
 </tr>
 <tr>
 <td style="text-align:center"><strong>HIW</strong></td>
@@ -3459,7 +3492,7 @@ RE:Application for (name of the position and ref)</p>
 <td style="text-align:center">總題庫</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>WFD</strong></td>
+<td style="text-align:center"><strong>⭐️WFD</strong></td>
 <td style="text-align:center"><em>90%</em></td>
 <td style="text-align:center">高頻</td>
 </tr>
