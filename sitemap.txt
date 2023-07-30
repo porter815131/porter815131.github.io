@@ -57,6 +57,7 @@ https://porter815131.github.io/tags/Line-Chart/
 https://porter815131.github.io/tags/Clutch/
 https://porter815131.github.io/tags/Tools/
 https://porter815131.github.io/tags/Schedule/
+https://porter815131.github.io/tags/Verbal/
 https://porter815131.github.io/categories/Australia/
 https://porter815131.github.io/categories/Australia/Log/
 https://porter815131.github.io/categories/Australia/Automotive/
@@ -89,3 +90,4 @@ https://porter815131.github.io/categories/English-Learning/3D-Notes/Phrase/
 https://porter815131.github.io/categories/English-Learning/Practices/
 https://porter815131.github.io/categories/English-Learning/Practices/Writting/
 https://porter815131.github.io/categories/English-Learning/Practices/Writting/Graphs/
+https://porter815131.github.io/categories/English-Learning/3D-Notes/Verbal-Sentences/
